@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/josephsutton/Projects/TheVagabondsDirectiveToTheUniverse/TheVagabondsDirectiveToTheUniverse/TheVagabondsDirectiveToTheUniverse.csproj": {}
+    "/Users/josephsutton/repos/TheVagabondsDirectiveToTheUniverse/TheVagabondsDirectiveToTheUniverse/TheVagabondsDirectiveToTheUniverse.csproj": {}
   },
   "projects": {
-    "/Users/josephsutton/Projects/TheVagabondsDirectiveToTheUniverse/TheVagabondsDirectiveToTheUniverse/TheVagabondsDirectiveToTheUniverse.csproj": {
+    "/Users/josephsutton/repos/TheVagabondsDirectiveToTheUniverse/TheVagabondsDirectiveToTheUniverse/TheVagabondsDirectiveToTheUniverse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/josephsutton/Projects/TheVagabondsDirectiveToTheUniverse/TheVagabondsDirectiveToTheUniverse/TheVagabondsDirectiveToTheUniverse.csproj",
+        "projectUniqueName": "/Users/josephsutton/repos/TheVagabondsDirectiveToTheUniverse/TheVagabondsDirectiveToTheUniverse/TheVagabondsDirectiveToTheUniverse.csproj",
         "projectName": "TheVagabondsDirectiveToTheUniverse",
-        "projectPath": "/Users/josephsutton/Projects/TheVagabondsDirectiveToTheUniverse/TheVagabondsDirectiveToTheUniverse/TheVagabondsDirectiveToTheUniverse.csproj",
+        "projectPath": "/Users/josephsutton/repos/TheVagabondsDirectiveToTheUniverse/TheVagabondsDirectiveToTheUniverse/TheVagabondsDirectiveToTheUniverse.csproj",
         "packagesPath": "/Users/josephsutton/.nuget/packages/",
-        "outputPath": "/Users/josephsutton/Projects/TheVagabondsDirectiveToTheUniverse/TheVagabondsDirectiveToTheUniverse/obj/",
+        "outputPath": "/Users/josephsutton/repos/TheVagabondsDirectiveToTheUniverse/TheVagabondsDirectiveToTheUniverse/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/josephsutton/.config/NuGet/NuGet.Config"
