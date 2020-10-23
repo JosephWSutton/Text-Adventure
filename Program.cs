@@ -31,7 +31,7 @@ namespace TheVagabondsDirectiveToTheUniverse
                 $"PRESS y FOR YES, n FOR NO\n\n ");// Game Instructions
 
             string key = Console.ReadKey().Key.ToString();
-
+            
             if (key.ToLower() == "y") //Directive Explanation
                 Console.WriteLine("\nOh great, the Blorgon army is not scary even though they will disembowel us\n" +
                     " on sight, and I have plenty of time to explain the most important tool we have to you.\n" +
@@ -45,10 +45,11 @@ namespace TheVagabondsDirectiveToTheUniverse
                     "complicated world. Throughout our journey I will read some of it to you to help make decisions.\n" +
                     "PRESS ENTER TO CONTINUE");
             else
+            {
                 Console.WriteLine("\nDid you forget how to use a keyboard too, you bumbling lunatic??\n" +
-                    "press y for yes or n for no!");               
-
-
+                    "press y for yes or n for no!");
+              
+            }
 
         }
     }
